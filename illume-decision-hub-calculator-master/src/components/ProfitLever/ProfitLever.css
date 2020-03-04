@@ -1,0 +1,55 @@
+.lever-label-direct-cost {
+  transform: translate(-47px, 23px);
+}
+
+.lever-label-indirect-cost {
+  transform: translate(-41px, 23px);
+}
+
+.lever-label-revenue {
+  transform: translate(-53px, 23px);
+}
+
+.lever-mask-direct-cost {
+  width: 53px;
+}
+
+.lever-mask-indirect-cost {
+  width: 60px;
+}
+
+.lever-mask-revenue {
+  width: 39px;
+}
+
+.lever-text-field-container {
+  width: 400px;
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.lever-text-field-direct-cost:focus + .lever-label-direct-cost {
+  transform: translate(-48px, 7px);
+}
+
+.lever-text-field-indirect-cost:focus + .lever-label-indirect-cost {
+  transform: translate(-44px, 7px);
+}
+
+.lever-text-field-revenue:focus + .lever-label-revenue {
+  transform: translate(-55px, 7px);
+}
+
+.text-field-active + .lever-label-direct-cost {
+  transform: translate(-48px, 7px);
+}
+
+.text-field-active + .lever-label-indirect-cost {
+  transform: translate(-44px, 7px);
+}
+
+.text-field-active + .lever-label-revenue {
+  transform: translate(-55px, 7px);
+}

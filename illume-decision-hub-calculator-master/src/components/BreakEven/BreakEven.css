@@ -1,0 +1,27 @@
+.break-mask-hours {
+  width: 55px;
+}
+
+.break-mask-indirect-cost {
+  width: 63px;
+}
+
+.break-mask-part {
+  width: 48px;
+}
+
+.break-mask-rate {
+  width: 46px;
+}
+
+.break-mask-raw-material {
+  width: 85px;
+}
+
+.break-mask-sales {
+  width: 78px;
+}
+
+.break-radio {
+  cursor: pointer;
+}

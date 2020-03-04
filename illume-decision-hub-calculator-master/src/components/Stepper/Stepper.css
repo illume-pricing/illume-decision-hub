@@ -1,0 +1,11 @@
+.stepper-container {
+  padding: 100px 30px;
+}
+
+.stepper-mask {
+  width: 71px;
+}
+
+.stepper-max-width-container {
+  max-width: 800px;
+}

@@ -1,0 +1,49 @@
+.login-brand-name {
+  position: relative;
+  bottom: 135px;
+  font-size: 2.1em;
+}
+
+.login-container {
+  background-color: white;
+  box-shadow: 5px 5px 10px grey;
+  padding: 20px;
+  border-radius: 25px;
+  height: 600px;
+  width: 400px;
+}
+
+.login-email-mask {
+  width: 38px;
+}
+
+.login-hr {
+  width: 80%;
+}
+
+.login-login-btn {
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+.login-logo {
+  height: 100px;
+  margin-bottom: 100px;
+}
+
+.login-password-mask {
+  width: 61px;
+}
+
+.login-register-btn {
+  margin: 30px;
+  border: none;
+  font-size: 0.9em;
+  text-transform: lowercase;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.login-text-field-radio-container {
+  padding-top: 10px;
+}

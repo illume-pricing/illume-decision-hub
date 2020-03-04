@@ -1,0 +1,78 @@
+.register-brand-name {
+  position: relative;
+  bottom: 35px;
+  font-size: 2.1em;
+}
+
+.register-cancel-btn {
+  margin: 15px;
+  border: none;
+  font-size: 0.9em;
+  text-transform: lowercase;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.register-container {
+  background-color: white;
+  box-shadow: 5px 5px 10px grey;
+  padding: 20px;
+  border-radius: 25px;
+  height: 600px;
+  width: 400px;
+}
+
+.register-dropdown {
+  margin-top: 10px;
+}
+
+.register-hr {
+  width: 80%;
+}
+
+.register-logo {
+  height: 100px;
+}
+
+.register-mask-company {
+  width: 59px;
+}
+
+.register-mask-confirm-password {
+  width: 80px;
+}
+
+.register-mask-email {
+  width: 38px;
+}
+
+.register-mask-name {
+  width: 38px;
+}
+
+.register-mask-password {
+  width: 61px;
+}
+
+.register-mask-phone {
+  width: 54px;
+}
+
+.register-register-btn {
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+
+.register-tos-container {
+  margin-top: 10px;
+}
+
+.tos {
+  cursor: pointer;
+  text-decoration: underline;
+  transition: 0.2s;
+}
+
+.tos:hover {
+  color: #f0aa42;
+}
