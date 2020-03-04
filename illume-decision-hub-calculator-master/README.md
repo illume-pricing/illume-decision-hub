@@ -9,7 +9,7 @@ Duration: 2 week sprint
 
 The application is designed to help small business owners generate more profits. Using conversational language through a “choose your own adventure” format, clients will be prompted to enter their financial information to create predictive calculations based on business decisions they can make around product pricing, operating costs, and total revenue. This will help clients better understand how changes in their decision-making and pricing could affect their future profitability.
 
-[Find the app deployed here](https://illume-decision-hub.herokuapp.com/).
+[Find the app deployed here](https://illume-hub.herokuapp.com/).
 
 ## Screen Shots
 User Registration Page <br/>
