@@ -510,7 +510,7 @@ VALUES ('Professional Services - Businesses',0.4,0.12,true),
 ('All Other',0.35,0.08,null);
 
 INSERT INTO "users" ("email", "hashedpassword", "admin", "super_admin")
-VALUES ('superadmin', '$2b$10$B0t4jBFniFsKGGydXBC4DuA5CltiBoeK3KihrkaL0R/AmewjIZDy6',true, true),
+VALUES ('superadmin', '$2b$10$qwKGZomWuVZG9epBtxMPCO9.zOsJPqY4WP7pX6Lon.22RVhiPH12m',true, true),
 ('jenny@illume-pricing.com', '$2b$10$KaWjdVb/Tg0BJGH3hWn9rOWufvxGPzX.hc4jkf3G1PLdyIZVdSWTu',true, false),
 ('susan@bamboo-partners.com', '$2b$10$tpthqya0L6mKVscihjxdgexQJFe7IG3nm3e64YzbSpzd720vRBQiG',true, false);
 
